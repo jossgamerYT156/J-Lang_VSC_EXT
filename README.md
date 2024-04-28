@@ -28,7 +28,10 @@ After installing the J-Lang extension, you can start editing J-Lang code in Visu
 - Note that advanced features like in-VSC debugging or running as a binary are not supported at this time.
 - J-Lang is primarily designed for educational purposes to simplify coding concepts and mostly fun!
 
-For more information and updates, visit the [J-Lang GitHub repository](https://github.com/jossgamerYT156/J-Lang).
+For the source code of the J-Lang_VSC_Extension, visit the [J-Lang_VSC_EXT repo](https://github.com/jossgamerYT156/J-Lang_VSC_EXT)!
+For more information on the J-Lang project visit the [J-Lang GitHub repository](https://github.com/jossgamerYT156/J-Lang) to get the J-Lang interpreter and learn more about our project!
+
+As well, Lilly will update this repo as more versions of the VSC Extension are released!
 
 ## Feedback
 
@@ -37,3 +40,10 @@ We welcome feedback and suggestions to improve the J-Lang extension. If you enco
 ## License
 
 This extension is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/jossgamerYT156/J-Lang_VSC_EXT/blob/main/LICENSE).
+
+
+Have fun!
+Learn new things everyday!
+and enjoy using J-Lang!
+
+-LillyDev!
