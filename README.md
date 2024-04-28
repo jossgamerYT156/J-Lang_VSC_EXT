@@ -1,36 +1,39 @@
-## J-Lang is a Pseudo Programming Language made by LillyDev for educational purposes while
-## trying to explain basic programming to non-developers as they learn with simple syntax
-## and easy to remember functions.
+# J-Lang Visual Studio Code Extension
 
+J-Lang is a pseudo-programming language created by LillyDev for educational purposes. It aims to simplify basic programming concepts for non-developers with simple syntax and easy-to-remember functions.
 
-# Syntax Highlight:
+## Features
 
-# Functions like:
-`activityClass()`, `print(")` and others have been color coded for
-"easy reading"
+- Syntax highlighting for J-Lang code files (.jl).
+- Color-coded functions and strings for improved readability.
+- Support for really basic programming constructs.
+- Integration with Visual Studio Code for a seamless coding experience.
 
-as well, strings have been color coded for easy reading.
+## Installation
 
-J-Lang VSC Extension is part of a Github project named by the same name that you can find at:
-[Lilly's Official GitHub Repo](https://github.com/jossgamerYT156/J-Lang)
+You can install the J-Lang extension directly from the Visual Studio Code Marketplace or by searching for "J-Lang" within the Extensions view in VS Code.
 
-# File extensions addmited by this extension:
-`.jl`
+1. Open Visual Studio Code.
+2. Go to the Extensions view by clicking on the square icon in the Sidebar or pressing `Ctrl+Shift+X`.
+3. Search for "J-Lang" and select the extension from the search results.
+4. Click on the Install button to install the extension.
+5. Once installed, you can start using the J-Lang extension for editing J-Lang code in Visual Studio Code.
 
-# Recommended usage:
-Aside of J-Lang_Interpreter for your platform
+## Usage
 
+After installing the J-Lang extension, you can start editing J-Lang code in Visual Studio Code. Here are some tips to get started:
 
-# Linux and MS-Windows only ones supported
+- Create a new file with a `.jl` extension to write J-Lang code.
+- Utilize the correct syntax highlighted by the extension.
+- Note that advanced features like in-VSC debugging or running as a binary are not supported at this time.
+- J-Lang is primarily designed for educational purposes to simplify coding concepts and mostly fun!
 
-# J-Lang is made for educational purposes only, to explain and make coding more simple and understandable for non-developers!
+For more information and updates, visit the [J-Lang GitHub repository](https://github.com/jossgamerYT156/J-Lang).
 
-## At this development point:
-J-Lang for Visual Studio Code doesn't rectify syntax errors, yet functions like such will be added soon as well as more functions for J-Lang Scripting.
+## Feedback
 
+We welcome feedback and suggestions to improve the J-Lang extension. If you encounter any issues or have ideas for enhancements, please [open an issue](https://github.com/jossgamerYT156/J-Lang/issues) on GitHub.
 
-Thank you for reading!
+## License
 
-Enjoy your coding adventure with J-Lang!
-
-ATTE: LillyDev
+This extension is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/jossgamerYT156/J-Lang_VSC_EXT/blob/main/LICENSE).
