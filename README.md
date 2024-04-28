@@ -1,6 +1,6 @@
-J-Lang is a Pseudo Programming Language made by LillyDev for educational purposes while
-trying to explain basic programming to non-developers as they learn with simple syntax
-and easy to remember functions.
+## J-Lang is a Pseudo Programming Language made by LillyDev for educational purposes while
+## trying to explain basic programming to non-developers as they learn with simple syntax
+## and easy to remember functions.
 
 
 # Syntax Highlight:
