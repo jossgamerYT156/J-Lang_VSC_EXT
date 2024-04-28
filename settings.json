@@ -1,0 +1,36 @@
+{
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "support.function.builtin.browser.jlang",
+        "settings": {
+          "foreground": "#FF69B4" // Light red (pinkish) color for browser function
+        }
+      },
+      {
+        "scope": "punctuation.parenthesis.open.jlang",
+        "settings": {
+          "foreground": "#FF00FF" // Magenta color for open parenthesis
+        }
+      },
+      {
+        "scope": "string.quoted.double.jlang",
+        "settings": {
+          "foreground": "#FFFFFF" // Default color for strings
+        }
+      },
+      {
+        "scope": "constant.language.url.jlang",
+        "settings": {
+          "foreground": "#ADD8E6" // Light blue color for URL strings
+        }
+      },
+      {
+        "scope": "punctuation.parenthesis.close.jlang",
+        "settings": {
+          "foreground": "#FF00FF" // Magenta color for close parenthesis
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "name": "J-Lang",
+    "scopeName": "source.jlang",
+    "patterns": [
+      {
+        "match":"\\(inputO)\\",
+        "name":"constant.jlang.argument.inputO"
+      },
+      {
+        "match": "\\b(activityClass)\\b",
+        "name": "keyword.control.activityClass.jlang"
+      },
+      {
+        "match": "\\(",
+      "name": "punctuation.parenthesis.open.jlang"
+      },
+      {
+      "begin": "\"",
+      "end": "\\)",
+      "name": "string.quoted.double.jlang"
+    },
+      {
+        "match": "\".*?\"",
+        "name": "string.quoted.jlang"
+      },
+      {
+        "match": "\\b(browser)\\b",
+        "name": "support.function.builtin.browser.jlang"
+      },
+  {
+    "begin": "browser\\(\\(",
+    "end": "\\)\\)",
+    "name": "support.function.builtin.url.jlang",
+    "patterns": [
+      {
+        "match": "https?://[^\\s\"]+",
+        "name": "constant.language.url.jlang"
+      },
+      {
+        "match": "\\)",
+        "name": "punctuation.parenthesis.close.jlang"
+      }
+    ]
+  }
+]
+}
